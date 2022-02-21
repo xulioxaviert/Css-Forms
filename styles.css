@@ -1,0 +1,21 @@
+p {
+  color: grey;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.estilo1 {
+  color: red;
+  font-size: 15px;
+}
+
+.estilo2{
+    font-weight: 18px;
+    color: blue;
+    text-decoration: underline;
+}
